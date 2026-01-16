@@ -272,7 +272,7 @@ header{
  .gallery h1{
    position: relative;
     width: 100%;
-    height: 400px; /* Height of your image section */
+    height: 40px; /* Height of your image section */
     background-image: url('https://via.placeholder.com/1200x400'); /* Your image */
     background-size: cover;
     background-position: center;
@@ -466,6 +466,7 @@ header{
     background-position: center;
 
 }
+
 
 
 
