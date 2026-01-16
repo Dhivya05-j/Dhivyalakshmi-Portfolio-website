@@ -239,7 +239,7 @@ header{
   transform: translateY(-3px);
 
 }
-.achi >h1{
+.achi{
    position: relative;
     width: 100%;
     height: 400px; /* Height of your image section */
@@ -333,6 +333,7 @@ header{
 .prev:hover, .next:hover {
   background: black;
 }
+
 .contact-section{
     width: 80%;
     height: 100vh;
@@ -477,6 +478,7 @@ header{
     background-position: center;
 
 }
+
 
 
 
